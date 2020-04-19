@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Building a Content Management System with Rails"
-date:       2020-04-19 20:43:30 +0000
+date:       2020-04-19 16:43:31 -0400
 permalink:  building_a_content_management_system_with_rails
 ---
 
