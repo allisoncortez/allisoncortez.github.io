@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Building a broser-based game with a Rails API"
-date:       2020-06-14 14:21:00 +0000
+title:      "Building a browser-based game with a Rails API"
+date:       2020-06-14 10:21:01 -0400
 permalink:  building_a_broser-based_game_with_a_rails_api
 ---
 
