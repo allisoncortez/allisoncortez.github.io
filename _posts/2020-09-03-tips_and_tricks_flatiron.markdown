@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Tips and Tricks: Flatiron"
-date:       2020-09-03 18:14:08 +0000
+date:       2020-09-03 14:14:09 -0400
 permalink:  tips_and_tricks_flatiron
 ---
 
